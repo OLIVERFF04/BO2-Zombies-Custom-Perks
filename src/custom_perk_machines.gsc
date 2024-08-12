@@ -628,7 +628,6 @@ removeperkshader()
         self.perk_count = 0;
 		self.perks_given = 0;
 		self.dying_wish_on_cooldown = 0;
-		self.thunder_wall_on_cooldown = 0;
 		self.rampage_on_cooldown = 0;
 		self.rampage = 0;
 		self.GS_on_cooldown = 0;
